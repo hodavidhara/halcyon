@@ -1,0 +1,6 @@
+[package]
+name = "halcyon"
+version = "0.1.0"
+authors = ["David Hara <hodavidhara@gmail.com>"]
+
+[dependencies]
