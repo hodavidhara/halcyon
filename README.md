@@ -1,1 +1,1 @@
-# halcyon
+# halcyon [![Build Status](https://travis-ci.org/hodavidhara/halcyon.svg?branch=master)](https://travis-ci.org/hodavidhara/halcyon)
